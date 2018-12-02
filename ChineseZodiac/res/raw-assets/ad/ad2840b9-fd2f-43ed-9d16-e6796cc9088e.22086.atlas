@@ -1,0 +1,69 @@
+
+card_attack_tex.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+爆炸/图层_0_拷贝_4
+  rotate: false
+  xy: 43, 37
+  size: 40, 28
+  orig: 40, 28
+  offset: 0, 0
+  index: -1
+爆炸/图层_0_拷贝_3
+  rotate: false
+  xy: 1, 37
+  size: 40, 32
+  orig: 40, 32
+  offset: 0, 0
+  index: -1
+爆炸/card_attack_tex_拷贝
+  rotate: false
+  xy: 53, 1
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+爆炸/图层_0_拷贝
+  rotate: false
+  xy: 82, 103
+  size: 36, 21
+  orig: 36, 21
+  offset: 0, 0
+  index: -1
+爆炸/card_attack_tex
+  rotate: false
+  xy: 1, 71
+  size: 38, 33
+  orig: 38, 33
+  offset: 0, 0
+  index: -1
+爆炸/图层_0
+  rotate: false
+  xy: 85, 37
+  size: 39, 26
+  orig: 39, 26
+  offset: 0, 0
+  index: -1
+爆炸/图层_0_拷贝_2
+  rotate: false
+  xy: 1, 1
+  size: 50, 34
+  orig: 50, 34
+  offset: 0, 0
+  index: -1
+爆炸/card_attack_tex_拷贝_2
+  rotate: false
+  xy: 41, 71
+  size: 39, 31
+  orig: 39, 31
+  offset: 0, 0
+  index: -1
+爆炸/card_attack_tex_0
+  rotate: false
+  xy: 82, 71
+  size: 39, 30
+  orig: 39, 30
+  offset: 0, 0
+  index: -1

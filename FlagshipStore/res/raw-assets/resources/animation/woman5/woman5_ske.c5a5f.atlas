@@ -1,0 +1,76 @@
+
+woman5_ske.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shadow
+  rotate: false
+  xy: 459, 866
+  size: 178, 70
+  orig: 186, 76
+  offset: 4, 4
+  index: -1
+女5/hair
+  rotate: false
+  xy: 1, 1
+  size: 361, 635
+  orig: 361, 635
+  offset: 0, 0
+  index: -1
+女5/body
+  rotate: false
+  xy: 1, 638
+  size: 456, 372
+  orig: 456, 372
+  offset: 0, 0
+  index: -1
+女5/body02
+  rotate: false
+  xy: 459, 538
+  size: 375, 326
+  orig: 375, 326
+  offset: 0, 0
+  index: -1
+女5/body01
+  rotate: false
+  xy: 836, 538
+  size: 190, 374
+  orig: 190, 374
+  offset: 0, 0
+  index: -1
+女5/head01
+  rotate: false
+  xy: 709, 1
+  size: 285, 535
+  orig: 285, 535
+  offset: 0, 0
+  index: -1
+女5/head02
+  rotate: false
+  xy: 364, 1
+  size: 343, 522
+  orig: 343, 522
+  offset: 0, 0
+  index: -1
+女5/head
+  rotate: false
+  xy: 996, 1
+  size: 285, 535
+  orig: 285, 535
+  offset: 0, 0
+  index: -1
+女5/eye
+  rotate: false
+  xy: 364, 525
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+女5/thing
+  rotate: false
+  xy: 639, 866
+  size: 104, 115
+  orig: 104, 115
+  offset: 0, 0
+  index: -1

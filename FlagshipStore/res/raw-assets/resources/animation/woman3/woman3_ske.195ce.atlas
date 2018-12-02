@@ -1,0 +1,97 @@
+
+woman3_ske.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shadow
+  rotate: false
+  xy: 444, 1291
+  size: 177, 70
+  orig: 186, 76
+  offset: 4, 4
+  index: -1
+女3/hair03
+  rotate: false
+  xy: 572, 987
+  size: 173, 302
+  orig: 173, 302
+  offset: 0, 0
+  index: -1
+女3/body01
+  rotate: false
+  xy: 1, 429
+  size: 463, 485
+  orig: 463, 485
+  offset: 0, 0
+  index: -1
+女3/body
+  rotate: false
+  xy: 688, 1
+  size: 257, 297
+  orig: 257, 297
+  offset: 0, 0
+  index: -1
+女3/body03
+  rotate: false
+  xy: 787, 300
+  size: 232, 293
+  orig: 232, 293
+  offset: 0, 0
+  index: -1
+女3/hair02
+  rotate: false
+  xy: 747, 987
+  size: 158, 305
+  orig: 158, 305
+  offset: 0, 0
+  index: -1
+女3/head
+  rotate: false
+  xy: 572, 718
+  size: 341, 267
+  orig: 341, 267
+  offset: 0, 0
+  index: -1
+女3/face02
+  rotate: false
+  xy: 1, 1290
+  size: 221, 159
+  orig: 221, 159
+  offset: 0, 0
+  index: -1
+女3/face03
+  rotate: false
+  xy: 1, 916
+  size: 569, 372
+  orig: 905, 568
+  offset: 222, 157
+  index: -1
+女3/face05
+  rotate: false
+  xy: 1, 1
+  size: 685, 426
+  orig: 685, 426
+  offset: 0, 0
+  index: -1
+女3/face01
+  rotate: false
+  xy: 224, 1290
+  size: 218, 155
+  orig: 218, 155
+  offset: 0, 0
+  index: -1
+女3/hair01
+  rotate: false
+  xy: 466, 429
+  size: 319, 287
+  orig: 319, 288
+  offset: 0, 1
+  index: -1
+女3/thing03
+  rotate: false
+  xy: 787, 595
+  size: 214, 80
+  orig: 270, 131
+  offset: 56, 0
+  index: -1

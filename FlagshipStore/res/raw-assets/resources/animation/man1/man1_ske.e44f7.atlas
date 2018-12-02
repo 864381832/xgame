@@ -1,0 +1,97 @@
+
+man1_ske.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shadow
+  rotate: false
+  xy: 652, 1217
+  size: 179, 71
+  orig: 186, 76
+  offset: 3, 3
+  index: -1
+男1/body03
+  rotate: false
+  xy: 731, 1
+  size: 226, 333
+  orig: 226, 333
+  offset: 0, 0
+  index: -1
+男1/body01
+  rotate: false
+  xy: 1, 906
+  size: 375, 263
+  orig: 375, 263
+  offset: 0, 0
+  index: -1
+男1/body
+  rotate: false
+  xy: 808, 336
+  size: 129, 310
+  orig: 242, 310
+  offset: 9, 0
+  index: -1
+男1/head
+  rotate: false
+  xy: 417, 878
+  size: 507, 337
+  orig: 508, 344
+  offset: 0, 7
+  index: -1
+男1/face05
+  rotate: false
+  xy: 1, 1217
+  size: 427, 316
+  orig: 428, 317
+  offset: 0, 1
+  index: -1
+男1/face01
+  rotate: false
+  xy: 1, 1
+  size: 728, 422
+  orig: 740, 426
+  offset: 0, 4
+  index: -1
+男1/face04
+  rotate: false
+  xy: 1, 425
+  size: 414, 479
+  orig: 416, 480
+  offset: 0, 0
+  index: -1
+男1/face03
+  rotate: false
+  xy: 808, 648
+  size: 203, 190
+  orig: 203, 190
+  offset: 0, 0
+  index: -1
+男1/face02
+  rotate: false
+  xy: 430, 1217
+  size: 220, 162
+  orig: 220, 162
+  offset: 0, 0
+  index: -1
+男1/hair
+  rotate: false
+  xy: 417, 425
+  size: 389, 451
+  orig: 389, 451
+  offset: 0, 0
+  index: -1
+男1/hand
+  rotate: false
+  xy: 939, 336
+  size: 68, 131
+  orig: 68, 131
+  offset: 0, 0
+  index: -1
+男1/palm
+  rotate: false
+  xy: 731, 336
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1

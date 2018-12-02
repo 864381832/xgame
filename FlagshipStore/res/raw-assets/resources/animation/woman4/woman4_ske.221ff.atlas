@@ -1,0 +1,76 @@
+
+woman4_ske.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shadow
+  rotate: false
+  xy: 1, 934
+  size: 177, 70
+  orig: 186, 76
+  offset: 4, 4
+  index: -1
+女4/body01
+  rotate: false
+  xy: 572, 326
+  size: 309, 305
+  orig: 309, 305
+  offset: 0, 0
+  index: -1
+女4/body
+  rotate: false
+  xy: 344, 375
+  size: 223, 302
+  orig: 223, 302
+  offset: 0, 0
+  index: -1
+女4/body03
+  rotate: false
+  xy: 1, 644
+  size: 214, 288
+  orig: 214, 288
+  offset: 0, 0
+  index: -1
+女4/head
+  rotate: false
+  xy: 1, 375
+  size: 341, 267
+  orig: 341, 267
+  offset: 0, 0
+  index: -1
+女4/face03
+  rotate: false
+  xy: 1, 1
+  size: 569, 372
+  orig: 905, 568
+  offset: 222, 157
+  index: -1
+女4/face01
+  rotate: false
+  xy: 792, 633
+  size: 214, 131
+  orig: 214, 131
+  offset: 0, 0
+  index: -1
+女4/face02
+  rotate: false
+  xy: 569, 633
+  size: 221, 159
+  orig: 221, 159
+  offset: 0, 0
+  index: -1
+女4/face05
+  rotate: false
+  xy: 792, 766
+  size: 202, 122
+  orig: 202, 122
+  offset: 0, 0
+  index: -1
+女4/hair
+  rotate: false
+  xy: 572, 1
+  size: 424, 323
+  orig: 424, 323
+  offset: 0, 0
+  index: -1

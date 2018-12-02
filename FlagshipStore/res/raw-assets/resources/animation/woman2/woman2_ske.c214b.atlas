@@ -1,0 +1,83 @@
+
+woman2_ske.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shadow
+  rotate: false
+  xy: 476, 574
+  size: 177, 70
+  orig: 186, 76
+  offset: 4, 4
+  index: -1
+女2/body_hairA
+  rotate: false
+  xy: 572, 1
+  size: 311, 302
+  orig: 311, 302
+  offset: 0, 0
+  index: -1
+女2/body
+  rotate: false
+  xy: 329, 668
+  size: 158, 295
+  orig: 158, 295
+  offset: 0, 0
+  index: -1
+女2/body03
+  rotate: false
+  xy: 256, 375
+  size: 218, 291
+  orig: 218, 291
+  offset: 0, 0
+  index: -1
+女2/hair01
+  rotate: false
+  xy: 1, 375
+  size: 253, 351
+  orig: 253, 351
+  offset: 0, 0
+  index: -1
+女2/head
+  rotate: false
+  xy: 572, 305
+  size: 341, 267
+  orig: 341, 267
+  offset: 0, 0
+  index: -1
+女2/hair
+  rotate: false
+  xy: 1, 728
+  size: 326, 233
+  orig: 326, 233
+  offset: 0, 0
+  index: -1
+女2/face05
+  rotate: false
+  xy: 489, 829
+  size: 219, 158
+  orig: 219, 158
+  offset: 0, 0
+  index: -1
+女2/face03
+  rotate: false
+  xy: 1, 1
+  size: 569, 372
+  orig: 905, 568
+  offset: 222, 157
+  index: -1
+女2/face02
+  rotate: false
+  xy: 489, 668
+  size: 221, 159
+  orig: 221, 159
+  offset: 0, 0
+  index: -1
+女2/face01
+  rotate: false
+  xy: 710, 829
+  size: 215, 149
+  orig: 215, 149
+  offset: 0, 0
+  index: -1

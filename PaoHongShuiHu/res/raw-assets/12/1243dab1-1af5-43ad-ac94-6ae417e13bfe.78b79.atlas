@@ -1,0 +1,118 @@
+
+B_1_ske_22_ske_ske.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+炮台2/dapao_22_tex 拷贝 3_0
+  rotate: false
+  xy: 245, 287
+  size: 153, 94
+  orig: 153, 94
+  offset: 0, 0
+  index: -1
+level_01_shadow
+  rotate: false
+  xy: 88, 425
+  size: 93, 58
+  orig: 100, 64
+  offset: 3, 3
+  index: -1
+炮台2/dapao_22_tex_拷贝_2
+  rotate: false
+  xy: 410, 150
+  size: 98, 105
+  orig: 98, 105
+  offset: 0, 0
+  index: -1
+炮台/图层_2
+  rotate: false
+  xy: 410, 257
+  size: 37, 13
+  orig: 37, 13
+  offset: 0, 0
+  index: -1
+blast/Effect03
+  rotate: false
+  xy: 1, 1
+  size: 162, 154
+  orig: 205, 209
+  offset: 21, 0
+  index: -1
+blast/Effect05
+  rotate: false
+  xy: 1, 299
+  size: 119, 124
+  orig: 205, 209
+  offset: 42, 23
+  index: -1
+blast/Effect04
+  rotate: false
+  xy: 372, 383
+  size: 114, 111
+  orig: 205, 209
+  offset: 45, 25
+  index: -1
+blast/Effect11
+  rotate: false
+  xy: 1, 425
+  size: 85, 76
+  orig: 205, 209
+  offset: 46, 95
+  index: -1
+blast/Effect02
+  rotate: false
+  xy: 165, 1
+  size: 141, 135
+  orig: 205, 209
+  offset: 31, 0
+  index: -1
+blast/Effect07
+  rotate: false
+  xy: 1, 157
+  size: 122, 140
+  orig: 205, 209
+  offset: 41, 23
+  index: -1
+blast/Effect08
+  rotate: false
+  xy: 308, 1
+  size: 127, 147
+  orig: 205, 209
+  offset: 38, 22
+  index: -1
+blast/Effect06
+  rotate: false
+  xy: 289, 150
+  size: 119, 135
+  orig: 205, 209
+  offset: 43, 21
+  index: -1
+blast/Effect10
+  rotate: false
+  xy: 125, 287
+  size: 118, 136
+  orig: 205, 209
+  offset: 40, 36
+  index: -1
+blast/Effect00
+  rotate: false
+  xy: 400, 287
+  size: 87, 83
+  orig: 205, 209
+  offset: 57, 1
+  index: -1
+blast/Effect09
+  rotate: false
+  xy: 165, 138
+  size: 122, 147
+  orig: 205, 209
+  offset: 39, 26
+  index: -1
+blast/Effect01
+  rotate: false
+  xy: 245, 383
+  size: 125, 106
+  orig: 205, 209
+  offset: 37, 0
+  index: -1

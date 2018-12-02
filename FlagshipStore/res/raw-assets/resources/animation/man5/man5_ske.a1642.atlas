@@ -1,0 +1,76 @@
+
+man5_ske.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shadow
+  rotate: false
+  xy: 803, 1312
+  size: 178, 72
+  orig: 186, 76
+  offset: 3, 2
+  index: -1
+男5/head01
+  rotate: false
+  xy: 482, 769
+  size: 472, 328
+  orig: 472, 328
+  offset: 0, 0
+  index: -1
+男5/head
+  rotate: false
+  xy: 1, 769
+  size: 479, 333
+  orig: 479, 333
+  offset: 0, 0
+  index: -1
+男5/body
+  rotate: false
+  xy: 1, 1104
+  size: 251, 339
+  orig: 251, 339
+  offset: 0, 0
+  index: -1
+男5/body02
+  rotate: false
+  xy: 1, 1
+  size: 771, 766
+  orig: 771, 766
+  offset: 0, 0
+  index: -1
+男5/body01
+  rotate: false
+  xy: 482, 1099
+  size: 319, 310
+  orig: 319, 310
+  offset: 0, 0
+  index: -1
+男5/face
+  rotate: false
+  xy: 803, 1099
+  size: 177, 211
+  orig: 177, 211
+  offset: 0, 0
+  index: -1
+男5/face02
+  rotate: false
+  xy: 774, 565
+  size: 170, 166
+  orig: 170, 167
+  offset: 0, 1
+  index: -1
+男5/face01
+  rotate: false
+  xy: 774, 359
+  size: 184, 204
+  orig: 184, 204
+  offset: 0, 0
+  index: -1
+男5/tear01
+  rotate: false
+  xy: 774, 1
+  size: 179, 356
+  orig: 179, 356
+  offset: 0, 0
+  index: -1
