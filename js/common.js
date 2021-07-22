@@ -3953,7 +3953,8 @@
             s = DH || [],
             v = 1E3 < m("#container").width(),
             U = v ? 290 : 230,
-            z = v ? 180 : 143;
+            // z = v ? 180 : 143;
+            z = v ? 290 : 230;
             m("body").hasClass("minScreen") && (U = 193, z = 120);
 //          this.items = m("#dh").append(m.map(Array(12),
 			this.items = m("#dh").append(m.map(Array(s[0].data.length),

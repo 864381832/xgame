@@ -1,0 +1,80 @@
+.yy_list {
+    width: 980px;
+    margin: 10px auto 0;
+    overflow: hidden;
+    background: #FFF
+}
+.yy_list .refer {
+    width: 980px;
+    overflow: hidden
+}
+.yy_list .refer li {
+    float: left;
+    margin: 0 3px 0 0;
+    overflow: hidden
+}
+.yy_list .refer .li_01 {
+    width: 327px;
+    height: 324px;
+    position: relative
+}
+.yy_list .refer .li_03, .yy_list .refer .li_04 {
+    width: 160px;
+    height: 324px
+}
+.yy_list .refer .li_01, .yy_list .refer .li_02, .yy_list .refer .li_03, .yy_list .refer .li_04 {
+    position: relative
+}
+.yy_list .refer .show_box, .yy_list .refer .show_box2_01, .yy_list .refer .show_box2_02, .yy_list .refer .show_box3_01, .yy_list .refer .show_box3_02, .yy_list .refer .show_box4_02 {
+    width: 327px;
+    height: 30px;
+    line-height: 30px;
+    background: #000;
+    background: rgba(0,0,0,0.6);
+    filter: alpha(opacity=60);
+    position: absolute;
+    left: 0;
+    bottom: 0
+}
+.yy_list .refer .show_box font, .yy_list .refer .show_box2_01 font, .yy_list .refer .show_box2_02 font, .yy_list .refer .show_box3_01 font, .yy_list .refer .show_box3_02 font, .yy_list .refer .show_box4_02 font {
+    margin: 0 0 0 16px;
+    color: #fff
+}
+.yy_list .refer .li_02 .show_box2_01, .yy_list .refer .li_03 .show_box3_01 {
+    position: absolute;
+    left: 0;
+    bottom: 164px
+}
+.yy_list .refer .li_02 {
+    width: 324px;
+    height: 324px
+}
+.yy_list .refer .li_04 {
+    margin-right: 0
+}
+.yy_list .refer .li_04 .box .first a {
+    display: block;
+    width: 80px;
+    height: 40px;
+    line-height: 40px;
+    float: left;
+    background: #ffa3c2;
+    text-align: center;
+    color: #fff
+}
+.yy_list .refer .li_04 .box .first a:hover {
+    background: #ff89b1
+}
+.yy_list .refer .li_04 .box .first a.other {
+    background: #ff89b1
+}
+.yy_list .refer .li_04 .box .first a.other:hover {
+    background: #f65e8f
+}
+.yy_list .refer .li_04 .box .last a {
+    display: block;
+    width: 160px;
+    height: 160px;
+    padding: 4px 0 0;
+    clear: both
+}
