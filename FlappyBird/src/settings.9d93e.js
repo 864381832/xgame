@@ -1,0 +1,1 @@
+window._CCSettings={platform:"web-mobile",groupList:["default","bird","pumple","score"],collisionMatrix:[[true,true],[true,false,true,true],[false,true,false],[false,true,false,false]],hasResourcesBundle:false,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/Scene/gameRun.fire",orientation:"",jsList:[],bundleVers:{internal:"1b082",main:"581e3"}};
